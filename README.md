@@ -3,7 +3,7 @@
 Welcome to my C programming repository! 
 
 ## 👨‍💻 About Me
-Hi, I'm Kerem. I'm a first-year Computer Engineering student with a strong passion for software development. My long-term vision is to build a career as an AI/Data Scientist, and I am currently establishing a rock-solid foundation in algorithms and logic using C.
+Hi, I'm Kerem. I'm a Computer Engineering student with a strong passion for software development. My long-term vision is to build a career as an AI/Data Scientist, and I am currently establishing a rock-solid foundation in algorithms and logic using C.
 
 ## 📁 About This Repository
 This repository serves as my personal code archive and learning diary. Rather than one massive project, it contains a collection of standalone `.c` files. Each file represents a mini-algorithm, a logic puzzle, or a foundational programming exercise I've written to master core computer science concepts (such as control structures, loops, and memory management).
