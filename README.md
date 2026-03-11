@@ -12,5 +12,8 @@ This repository serves as my personal code archive and learning diary. Rather th
 * **Language:** C
 * **Environment:** Code::Blocks / GCC Compiler
 
+## 📚 Learning Resources & Acknowledgements
+The exercises, logic puzzles, and algorithms in this repository are heavily inspired by and followed alongside the C Programming tutorial series by **Fehmi Uyar** on YouTube. I would like to express my gratitude for his clear, instructive curriculum which has been instrumental in building my foundational logic. The codes here are my own implementations of those lessons.
+
 ## 📌 Note to Visitors
 This repository is a continuous work in progress. I upload my practice files here as I learn and apply new concepts. I do not maintain a strict index; instead, each file is descriptively named based on its function (e.g., finding sums, reversing numbers). Feel free to explore the code!
