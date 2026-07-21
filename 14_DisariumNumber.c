@@ -16,7 +16,6 @@ int main()
 {
     int number;
     int originalNumber;
-    int tempNumber;
     int sum = 0;
 
     printf("Please enter a number:");
